@@ -1,0 +1,201 @@
+{
+	"images": [
+		{
+			"name": "kitchen-tiles",
+			"path": "./assets/images/RoomWallsAndFloor/kitchenTiles.png",
+			"width": 96,
+			"height": 96
+		},
+		{
+			"name": "kitchen-tiles-deco",
+			"path": "./assets/images/RoomWallsAndFloor/kitchenTilesDeco.png",
+			"width": 224,
+			"height": 224
+		},
+		{
+			"name": "manor-tiles",
+			"path": "./assets/images/RoomWallsAndFloor/manorTiles.png",
+			"width": 128,
+			"height": 80
+		},
+		{
+			"name": "manor-tiles-deco",
+			"path": "./assets/images/RoomWallsAndFloor/manorTilesDeco.png",
+			"width": 224,
+			"height": 240
+		},
+		{
+			"name": "tunnel-tiles",
+			"path": "./assets/images/RoomWallsAndFloor/tunnelTiles.png",
+			"width": 64,
+			"height": 32
+		},
+		{
+			"name": "doors-and-windows",
+			"path": "./assets/images/RoomDecor/TopDownHouse_DoorsAndWindows.png",
+			"width": 288,
+			"height": 160
+		},
+		{
+			"name": "floors-and-walls",
+			"path": "./assets/images/RoomDecor/TopDownHouse_FloorsAndWalls.png",
+			"width": 288,
+			"height": 144
+		},
+		{
+			"name": "furniture-state-1",
+			"path": "./assets/images/RoomDecor/TopDownHouse_FurnitureState1.png",
+			"width": 208,
+			"height": 288
+		},
+		{
+			"name": "furniture-state-2",
+			"path": "./assets/images/RoomDecor/TopDownHouse_FurnitureState2.png",
+			"width": 208,
+			"height": 288
+		},
+		{
+			"name": "small-items",
+			"path": "./assets/images/RoomDecor/TopDownHouse_SmallItems.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "dungeon-tileset",
+			"path": "./assets/images/Enemies/0x72_DungeonTilesetII_v1.6.png",
+			"width": 512,
+			"height": 512
+		},
+		{
+			"name": "enemies",
+			"path": "./assets/images/Enemies/enemies.png",
+			"width": 192,
+			"height": 128
+		},
+		{
+			"name": "knight",
+			"path": "./assets/images/Characters/Knight1_Move.png",
+			"width": 208,
+			"height": 416
+		},
+		{
+			"name": "player-sword",
+			"path": "./assets/images/Characters/Civilian2(black)_Attack(Weapon1).png",
+			"width": 208,
+			"height": 416
+		},
+		{
+			"name": "player-walk",
+			"path": "./assets/images/Characters/Civilian2(black)_Move.png",
+			"width": 208,
+			"height": 416
+		},
+		{
+			"name": "player-idle",
+			"path": "./assets/images/Characters/Civilian2(black)_Idle.png",
+			"width": 208,
+			"height": 104
+		},
+		{
+			"name": "player-faint",
+			"path": "./assets/images/Characters/Civilian2(black)_Faint.png",
+			"width": 52,
+			"height": 52
+		},
+		{
+			"name": "hearts",
+			"path": "./assets/images/Objects/hearts.png",
+			"width": 96,
+			"height": 16
+		},
+		{
+			"name": "title",
+			"path": "./assets/images/Background/title.png",
+			"width": 288,
+			"height": 207
+		},
+		{
+			"name": "game-over",
+			"path": "./assets/images/Background/gameOver.png",
+			"width": 288,
+			"height": 207
+		},
+		{
+			"name": "victory",
+			"path": "./assets/images/Background/victory.png",
+			"width": 293,
+			"height": 200
+		}
+	],
+	"fonts": [
+        {
+            "name": "Joystix",
+            "path": "./assets/fonts/Joystix.ttf"
+        },
+		{
+            "name": "PixelifySans-Regular",
+            "path": "./assets/fonts/PixelifySans-Regular.ttf"
+        },
+		{
+            "name": "PressStart2P-Regular",
+            "path": "./assets/fonts/PressStart2P-Regular.ttf"
+        }
+	],
+	"sounds": [
+		{
+			"name": "door",
+			"path": "./assets/sounds/door.wav",
+			"size": 4,
+			"volume": 0.1
+		},
+		{
+			"name": "hit-enemy",
+			"path": "./assets/sounds/hit_enemy.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "hit-player",
+			"path": "./assets/sounds/hit_player.wav",
+			"size": 1,
+			"volume": 0.1
+		},
+        {
+			"name": "sword",
+			"path": "./assets/sounds/sword.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+        {
+            "name": "key",
+			"path": "./assets/sounds/key.wav",
+			"size": 5,
+			"volume": 0.1
+        },
+        {
+			"name": "music",
+			"path": "./assets/sounds/background-theme-1.wav",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "selection-choice",
+			"path": "./assets/sounds/selection-choice.ogg",
+			"size": 5,
+			"volume": 0.2
+		},
+		{
+			"name": "selection-move",
+			"path": "./assets/sounds/selection-move.ogg",
+			"size": 5,
+			"volume": 0.2
+		},
+		{
+			"name": "menu-open",
+			"path": "./assets/sounds/menu-open.ogg",
+			"size": 1,
+			"volume": 0.2
+		}
+	]
+}

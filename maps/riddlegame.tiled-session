@@ -1,0 +1,61 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Knight1_Move.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "TopDownHouse_SmallItems.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "manorTiles.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 4
+        },
+        "manorTilesDeco.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "scale": 2.4858333333333333,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 34.19376466644319,
+                "y": 110.02346630908482
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/manig/Documents/JAC/Semester5/GameProg_Project_Riddle/project-jean-rose-anjeli/RiddleManor/maps",
+    "last.imagePath": "C:/Users/manig/Documents/JAC/Semester5/GameProg_Project_Riddle/project-jean-rose-anjeli/RiddleManor/assets/images/Characters",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "map1.tmx",
+        "manorTiles.tsx",
+        "manorTilesDeco.tsx",
+        "TopDownHouse_SmallItems.tsx",
+        "Knight1_Move.tsx"
+    ],
+    "project": "riddlegame.tiled-project",
+    "recentFiles": [
+        "Knight1_Move.tsx",
+        "TopDownHouse_SmallItems.tsx",
+        "manorTilesDeco.tsx",
+        "manorTiles.tsx",
+        "map1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
